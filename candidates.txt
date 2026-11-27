@@ -1,0 +1,23 @@
+Candidates drafted for "Invent a Word We Need" (u-deranalabs-invent-a-word-we-need-17a020e0).
+Each was checked against live web search before selection.
+
+1. tabnesia — forgetting why you opened a browser tab.
+   REJECTED: already coined (Urban Dictionary, 2013; Firefox add-on of the same name).
+
+2. snackward — the walk to the fridge you take when you are not hungry, only avoiding work.
+   REJECTED: already used (poem, 2012; "Snackward Sam" in pun lists).
+
+3. roomnesia — forgetting why you entered a room.
+   REJECTED: already coined (Instagram slang posts, May and Nov 2026).
+
+4. byewalk — saying goodbye to someone, then walking the same way in awkward silence.
+   REJECTED: the string exists in archaic senses (a by-road in a Gaelic dictionary;
+   Kipling's "byewalk" = sidewalk), so it is not a clean coinage.
+
+5. socklone — the single sock left after laundry, its partner gone without explanation.
+   GENUINE (no search hits), but a weaker gap than the phone-check: a laundry
+   curiosity, not a daily behaviour everyone recognises in themselves.
+
+6. notifidget — the urge to check your phone for a notification that never came.
+   CHOSEN. Genuine (no search hits), fills a real daily gap, sayable/spellable/
+   memorable, and the definition lands in one reading.
